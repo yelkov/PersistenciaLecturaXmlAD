@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+    <alumno>
+        <dni>47022425Y</dni>
+        <nombre>TAMARA PARDO GOMEZ</nombre>
+        <edad>23</edad>
+        <notaMedia>3.5</notaMedia>
+        <repite>Sí</repite>
+    </alumno>
+    <alumno>
+        <dni>28476159C</dni>
+        <nombre>Iván</nombre>
+        <edad>18</edad>
+        <notaMedia>3.9</notaMedia>
+        <repite>Sí</repite>
+    </alumno>
+    <alumno>
+        <dni>21231609X</dni>
+        <nombre>Aberto</nombre>
+        <edad>19</edad>
+        <notaMedia>5.1</notaMedia>
+        <repite>Sí</repite>
+    </alumno>
+</alumnos>
